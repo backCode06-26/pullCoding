@@ -1,6 +1,4 @@
-<div align="center"> 
-
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=893107&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+developer+proficient+in+Java%2C+Spring%2C+and+React+%2B+TypeScript.)](https://git.io/typing-svg)
   
 ####  :wave: Welcome my github profile !
 
