@@ -1,3 +1,5 @@
+<div style="text-center : center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+developer+proficient+in+Java%2C+Spring%2C+and+React+%2B+TypeScript.)](https://git.io/typing-svg)
   
 ####  :wave: Welcome my github profile !
